@@ -1,0 +1,8 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_fuelstation_instock,access.fuelstation.instock,model_fuelstation_instock,base.group_user,1,1,1,1
+access_fuelstation_fueldata,access.fuelstation.fueldata,model_fuelstation_fueldata,base.group_user,1,1,1,1
+access_fuelstation_record,access.fuelstation.record,model_fuelstation_record,base.group_user,1,1,1,1
+access_fuelstation_fuelprice,access.fuelstation.fuelprice,model_fuelstation_fuelprice,base.group_user,1,1,1,1
+access_fuelstation_avlstock,access.fuelstation.avlstock,model_fuelstation_avlstock,base.group_user,1,1,1,1
+fuelstation.access_fuelstation_outstock,access_fuelstation_outstock,fuelstation.model_fuelstation_outstock,base.group_user,1,1,1,1
+
